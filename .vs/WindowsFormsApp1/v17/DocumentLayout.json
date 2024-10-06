@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\madhavi singh\\onedrive\\documents\\desktop\\c# files\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\windowsformsapp1\\wfa_classes\\class_wfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\wfa_classes\\class_wfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\windowsformsapp1\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A17E2-CBAE-4191-93CB-D1BC91C60385}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:14:18.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:32:38.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class_WFA.cs",
+              "DocumentMoniker": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\WFA_classes\\Class_WFA.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WFA_classes\\Class_WFA.cs",
+              "ToolTip": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\WFA_classes\\Class_WFA.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\WFA_classes\\Class_WFA.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:24:29.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\madhavi singh\\OneDrive\\Documents\\Desktop\\C# files\\WindowsFormsApp1\\WindowsFormsApp1\\DatabaseConnection.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:56:54.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
